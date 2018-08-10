@@ -1,0 +1,4 @@
+*.pyc
+catalogs
+plots
+.ipynb_checkpoints
